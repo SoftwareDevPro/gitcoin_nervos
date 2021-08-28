@@ -2,6 +2,8 @@
 
 1. A screenshot of the console output immediately after you have successfully deployed a smart contract.
 
+01_2021-08-27_22-27_screenshot-smart-contract-deployment.png
+
 2. The transaction hash from the contract deployment (in text format).
 
 0x5e8a34dfae000540790cb70314292129fc040529935f108982a0ad90af79d2ba
